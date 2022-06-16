@@ -1,0 +1,26 @@
+[
+  {
+    "package": "behavr",
+    "oncran": true
+  },
+  {
+    "package": "damr",
+    "oncran": true
+  },
+  {
+    "package": "ggetho",
+    "oncran": true
+  },
+  {
+    "package": "scopr",
+    "oncran": true
+  },
+  {
+    "package": "sleepr",
+    "oncran": true
+  },
+  {
+    "package": "zeitgebr",
+    "oncran": true
+  }
+]
