@@ -1,14 +1,10 @@
 [
   {
-    "package": "scopr",
-    "oncran": true
-  },
-  {
     "package": "behavr",
     "oncran": true
   },
   {
-    "package": "sleepr",
+    "package": "damr",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "damr",
+    "package": "scopr",
+    "oncran": true
+  },
+  {
+    "package": "sleepr",
     "oncran": true
   },
   {
