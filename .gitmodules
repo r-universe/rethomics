@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scopr"]
+	path = scopr
+	url = https://github.com/rethomics/scopr
+	shallow = true
+	registered = true
 [submodule "behavr"]
 	path = behavr
 	url = https://github.com/rethomics/behavr
 	shallow = true
 	registered = true
-[submodule "damr"]
-	path = damr
-	url = https://github.com/rethomics/damr
+[submodule "sleepr"]
+	path = sleepr
+	url = https://github.com/rethomics/sleepr
 	shallow = true
 	registered = true
 [submodule "ggetho"]
@@ -18,14 +23,9 @@
 	url = https://github.com/rethomics/ggetho
 	shallow = true
 	registered = true
-[submodule "scopr"]
-	path = scopr
-	url = https://github.com/rethomics/scopr
-	shallow = true
-	registered = true
-[submodule "sleepr"]
-	path = sleepr
-	url = https://github.com/rethomics/sleepr
+[submodule "damr"]
+	path = damr
+	url = https://github.com/rethomics/damr
 	shallow = true
 	registered = true
 [submodule "zeitgebr"]
