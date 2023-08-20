@@ -11,9 +11,6 @@
 [submodule "ggetho"]
 	path = ggetho
 	url = https://github.com/rethomics/ggetho
-[submodule "scopr"]
-	path = scopr
-	url = https://github.com/rethomics/scopr
 [submodule "sleepr"]
 	path = sleepr
 	url = https://github.com/rethomics/sleepr
